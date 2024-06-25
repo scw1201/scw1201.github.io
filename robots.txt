@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://shichengwei.github.io/sitemap.xml
+Sitemap: https://scw1201.github.io/sitemap.xml
