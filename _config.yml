@@ -8,7 +8,7 @@ middle_name:
 last_name: Shi
 email: shichengwei@buaa.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+ Bluh bluh.
 footer_text: >
   Welcome.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
